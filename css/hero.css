@@ -11,6 +11,7 @@
 }
 
 .hero-title {
+  font-family: "Roboto", sans-serif;
   max-width: 496px;
   margin-bottom: 48px;
   color: #ffffff;
@@ -38,3 +39,4 @@
 .hero-button:focus {
   background-color: #404bbf;
 }
+
